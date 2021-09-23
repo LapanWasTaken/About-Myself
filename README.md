@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LapanWasTaken
-- 👀 I’m interested when lookin you 
+- 👀 I’m interested when looking at you 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ==> kerengga28@gmail.com 
