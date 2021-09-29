@@ -2,7 +2,7 @@
 - 👀 I’m interested when looking at you 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ==> kerengga28@gmail.com 
+- 📫 How to reach me ==> lapanwastaken@gmail.com 
 
 <!---
 LapanWasTaken/LapanWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
