@@ -5,8 +5,10 @@
 - 📫 How to reach me ==> lapanwastaken@gmail.com 
 <html>
   <head>
+    <center>
 <img src="https://i.pinimg.com/564x/1b/3b/5f/1b3b5fea56efce7caca06cd51285b39a.jpg" width="325px" height="325px"</img>
   </head>
+    </center>
     </html>
 <!---
 LapanWasTaken/LapanWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
