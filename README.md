@@ -5,7 +5,7 @@
 - 📫 How to reach me ==> lapanwastaken@gmail.com 
 <html>
   <head>
-<img src="https://i.ibb.co/jM3gj47/Rem.jpg" width="325px" height="325px"</img>
+<img src="https://i.pinimg.com/564x/1b/3b/5f/1b3b5fea56efce7caca06cd51285b39a.jpg" width="325px" height="325px"</img>
   </head>
     </html>
 <!---
