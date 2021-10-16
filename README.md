@@ -6,7 +6,7 @@
 <html>
   <head>
     <center>
-<img src="https://i.pinimg.com/564x/e1/f6/65/e1f665ebb60a09f7a2ff2a0a45d2bd57.jpg" width="325px" height="325px"</img>
+<img src="https://i.pinimg.com/564x/e1/f6/65/e1f665ebb60a09f7a2ff2a0a45d2bd57.jpg" width="325px" height="325px"</img><center>
   </head>
     </center>
     </html>
