@@ -6,7 +6,7 @@
 <html>
   <head>
     <center>
-<img src="https://i.ibb.co/Tm9k8Fd/cute-anime-girl-4k.jpg" width="325px" height="325px"</img><center>
+<img src="https://i.ibb.co/Tm9k8Fd/cute-anime-girl-4k.jpg" width="815px" height="450px"</img><center>
   </head>
     </center>
     </html>
