@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LapanWasTaken
 - 👀 I’m interested when looking at you 
-- 🍃 Quote : Learn how to be happy with what you have while you pursue all that you want.
+- 🍃 Quote : "Learn how to be happy with what you have while you pursue all that you want."
 - 📫 How to reach me ==> lapanwastaken@gmail.com 
 <html>
   <head>
